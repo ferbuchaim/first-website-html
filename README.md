@@ -1,3 +1,3 @@
 # first-website-html
 My first website created, using only html.
-Created while doing the web development bootcamp by Dr. Angela Yu
+Created while studyingThe Complete 2022 Web Development Bootcamp by Dr. Angela Yu
