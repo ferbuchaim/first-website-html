@@ -1,0 +1,19 @@
+
+  body{
+    background-color: #F0D9FF;
+  }
+
+  hr{
+    width: 20%;
+    border-color: #7F7C82;
+    border-top-style: solid;
+  }
+
+  .profile{
+   height:  200px;
+  }
+
+  h1,
+  h3{
+    color: #7F7C82;
+  }
